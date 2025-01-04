@@ -91,7 +91,8 @@ StreamFeel is your bestie for keeping tabs on social media vibes! Drop in any ha
 
 ### Dashboard Drip
 <div align="center">
-  <img src="./public/s1.png" alt="Dashboard looking fresh" />
+  <img src="./public/s2.png" alt="Dashboard looking fresh" />
+  <img src="./public/s3.png" alt="Dashboard looking fresh" />
 </div>
 
 <!-- ### Trend Watch
