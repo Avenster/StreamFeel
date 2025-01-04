@@ -17,7 +17,7 @@ const NavBar = () => {
                   <BarChart2 className="w-3 h-3 text-white" />
                 </div>
                 <span className="ml-2 text-sm font-bold bg-gradient-to-r from-purple-600 to-black text-transparent bg-clip-text">
-                  SentiMate
+                  StreamFeel
                 </span>
               </div>
             </div>
@@ -34,19 +34,19 @@ const NavBar = () => {
             <div className="flex items-center space-x-4">
               {/* Notification Bell */}
               <button className="p-2 hover:bg-gray-100 rounded-full relative">
-                <Bell className="w-3 h-3 text-gray-600" />
+                <Bell className="w-4 h-4 text-gray-600" />
                 <span className="absolute top-1 right-1 w-2 h-2 bg-red-500 rounded-full"></span>
               </button>
 
               {/* Messages */}
               <button className="p-2 hover:bg-gray-100 rounded-full">
-                <MessageSquare className="w-3 h-3 text-gray-600" />
+                <MessageSquare className="w-4 h-4 text-gray-600" />
               </button>
 
               {/* Profile */}
               <div className="flex items-center space-x-2">
                 <div className="w-6 h-6 rounded-full bg-gradient-to-r from-purple-500 to-black flex items-center justify-center">
-                  <User className="w-3 h-3 text-white" />
+                  <User className="w-4 h-4 text-white" />
                 </div>
               </div>
 
@@ -108,3 +108,6 @@ const MobileNavLink = ({ icon, text, active }) => (
 );
 
 export default NavBar;
+
+
+
