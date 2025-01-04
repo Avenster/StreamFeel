@@ -91,13 +91,13 @@ StreamFeel is your bestie for keeping tabs on social media vibes! Drop in any ha
 
 ### Dashboard Drip
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=✨+Dashboard+Vibes+✨" alt="Dashboard looking fresh" />
+  <img src="/s1.png" alt="Dashboard looking fresh" />
 </div>
 
-### Trend Watch
+<!-- ### Trend Watch
 <div align="center">
   <img src="https://via.placeholder.com/800x400.png?text=📈+Trend+Analytics+📊" alt="Trends looking fire" />
-</div>
+</div> -->
 
 ## 🤝 Squad Up (How to Contribute)
 
