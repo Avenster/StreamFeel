@@ -28,7 +28,6 @@ StreamFeel is your bestie for keeping tabs on social media vibes! Drop in any ha
 🎭 TailwindCSS (for that aesthetic)
 📈 Chart.js/D3.js (making data look fire)
 ```
-
 ### 🛠 Backend Magic
 ```txt
 ⚡ Node.js + WebSocket (keeping it real-time)
